@@ -4,7 +4,7 @@ Different type of Data Strcture
 Analysis of Algorithms 
 Rate of growth: O(n), o(n), Ω(n) ω(n) Θ(n) 
 Time vs. Space
-Stacks & Queues 
+Stacks & Queues
 Arrays vs. Linked Lists
 Binary Trees 
 Binary Tree Manipulation
